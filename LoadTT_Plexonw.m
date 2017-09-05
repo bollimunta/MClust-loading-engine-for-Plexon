@@ -1,6 +1,5 @@
 function [T,WV] = LoadTT_Plexonw(a,b,c)
 % MClust Loading engine wrapper
-% [T,WV] = LoadSE_NeuralynxNT(a,b,c)
 
 %  finished on Aug. 2014 by Anil Bollimunta
 
